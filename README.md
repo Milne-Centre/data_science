@@ -1,5 +1,5 @@
 # data_science
-Available datasets for our data science course
+Available datasets for our data science course (all in csv format)
 
 Exoplanets-Kepler-objects_04_02_2020.csv: An exoplanet detection dataset from the Kepler mission (See https://exoplanetarchive.ipac.caltech.edu for more details about columns, although the file constains comments) 
 	
