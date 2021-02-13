@@ -11,9 +11,7 @@ P = Post
 Q = Quaker Oats
 R = Ralston Purina
 
-type:
-cold
-hot
+type: cold / hot
 
 calories: calories per serving
 
