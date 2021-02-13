@@ -1,3 +1,6 @@
+##This folder contain the cereal dataset needed for assignment 1
+
+
 Fields in the dataset:
 
 Name: Name of cereal
