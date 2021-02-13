@@ -1,4 +1,4 @@
-## This folder contains all the datasets for assignment 2
+## This folder contains the datasets for assignment 2
 
 ++++ Assignement 2 datasets are described below ++++
 
