@@ -6,3 +6,5 @@ Available datasets for our data science course (all in csv format)
 - Dataset for the first assignment is located in "Assignment_1_dataset" folder
 
 - Datasets for the second assignment can be found in "Assignment_2_datasets" folder
+
+- Datasets for the WRIPA summer school can be found in "WRIPA" folder
